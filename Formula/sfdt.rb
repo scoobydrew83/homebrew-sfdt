@@ -15,8 +15,8 @@ require "language/node"
 class Sfdt < Formula
   desc "Salesforce DX deployment, testing, quality analysis, and release CLI"
   homepage "https://github.com/scoobydrew83/sfdt"
-  url "https://registry.npmjs.org/@sfdt/cli/-/cli-0.27.1.tgz"
-  sha256 "9c674d7cba81149664e225caf205ce8b13898035ccdf6cf69ad03b2d239bdb77"
+  url "https://registry.npmjs.org/@sfdt/cli/-/cli-0.28.0.tgz"
+  sha256 "354fb5a2a72056323dd3bbe68d3d9b0e61d39ed26db26c29c44a43e5df9f75af"
   license "MIT"
 
   depends_on "node"
